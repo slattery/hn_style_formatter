@@ -1,0 +1,6 @@
+{
+  "name": "slattery/hn_style_formatter",
+  "description": "d10 formatter textonly with links from wysiwyg",
+  "type": "drupal-custom-module",
+  "license": "GPL-2.0-or-later"
+}
