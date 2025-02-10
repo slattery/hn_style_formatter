@@ -1,0 +1,7 @@
+name: HN Style Formatter
+type: module
+description: Provides a formatter to display richtext as text with a list of links.
+core_version_requirement: ^8 || ^9 || ^10
+package: Custom
+dependencies:
+  - text
